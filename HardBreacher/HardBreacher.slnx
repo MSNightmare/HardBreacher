@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HardBreacher.vcxproj" Id="74a28321-d6c1-4d17-b55a-b33bb53d5ba7" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SolidSnake.vcxproj" Id="6d66515d-1f35-44c2-8161-49455e68463a" />
+</Solution>
